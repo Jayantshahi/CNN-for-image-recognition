@@ -1,1 +1,1 @@
-# Deep-learning-HW4
+# CNN for image recognition
